@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
 # Date:22-09-2025
-## Register Number:
+## Register Number:25012020
 ## Name:R.Adithya
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
@@ -42,7 +42,8 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 <h3>This explains the main app and how it solves the problem</h3>
-  <ul><li>Our proposed solution is a comprehensive, multilingual, and AI-powered agricultural advisory platform designed specifically for small and marginal farmers in India. The core of our solution is a mobile application and chatbot that provides real-time, location-specific guidance on crop selection, soil health management, and fertilizer usage. The system leverages artificial intelligence to analyze local conditions and deliver personalized recommendations that help farmers optimize yields while reducing input costs. To address the challenge of pest and disease management, we have integrated an image recognition system that allows farmers to upload photos of affected crops for instant diagnosis and treatment advice</li>
+  <ul><li>DETAILED EXPLANATION:
+    Our proposed solution is a comprehensive, multilingual, and AI-powered agricultural advisory platform designed specifically for small and marginal farmers in India. The core of our solution is a mobile application and chatbot that provides real-time, location-specific guidance on crop selection, soil health management, and fertilizer usage. The system leverages artificial intelligence to analyze local conditions and deliver personalized recommendations that help farmers optimize yields while reducing input costs. To address the challenge of pest and disease management, we have integrated an image recognition system that allows farmers to upload photos of affected crops for instant diagnosis and treatment advice</li>
 <li>It directly tackles the core issues faced by farmers:
 
 · Replaces Guesswork: The AI-powered app provides scientific, data-driven advice on crops, soil, and fertilizers, moving farmers away from unreliable traditional knowledge.
@@ -54,7 +55,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Technical Approach
 <h3>Technically it can be used by using mobile phone as well as toll free:</h3>
-<ul><li>· Mobile App Development: React Native (for cross-platform compatibility on Android and iOS)
+<ul><li>·TECHNOLOGY TO BE USED: Mobile App Development: React Native (for cross-platform compatibility on Android and iOS)
 · Backend & API: Python with Django REST framework
 · AI/ML Models: TensorFlow and PyTorch for building image recognition (pest/disease detection) and predictive analytics (crop advisory) models.
 · Database: PostgreSQL (for reliable and structured data storage)
@@ -73,7 +74,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Feasibility and Viability
 <h3>It shows the analysis,challenges,risks and strategies</h3>
-<ul><li>The idea is highly feasible.The proposed technologies are mature, widely available, and have strong developer communities. The increasing penetration of smartphones and mobile networks in rural India makes the digital component viable. The physical component (toll-free & visits) leverages existing agricultural extension models but makes them more efficient through technology.</li>
+<ul><li>ANALYSIS OF FEASIBILITY:The idea is highly feasible.The proposed technologies are mature, widely available, and have strong developer communities. The increasing penetration of smartphones and mobile networks in rural India makes the digital component viable. The physical component (toll-free & visits) leverages existing agricultural extension models but makes them more efficient through technology.</li>
 <li>· Low Digital Literacy: Could hinder app adoption.
 · Connectivity Issues: Poor internet in remote villages could affect app functionality.
 · Data Accuracy: The AI models require large, localized datasets to be accurate.
@@ -84,7 +85,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Impact and Benefits
 <h3>How it Improves by socially,economically</h3>
-<ul><li>This solution will empower millions of small and marginal farmers with knowledge.It will directly impact their decision-making, leading to:
+<ul><li>POTENTIAL ON TARGET AUDIENCE:This solution will empower millions of small and marginal farmers with knowledge.It will directly impact their decision-making, leading to:
 
 · Reduced anxiety and increased confidence in farming practices.
 · Tangible improvements in yield and income.
@@ -97,7 +98,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Research and References
 <h3>Reserching about problems before starting is major process</h3>
-<ul><li>
+<ul><li>DETAIL REFERENCES:
 · NABARD All India Rural Financial Inclusion Survey 2016-17: Highlights the proportion of small and marginal farmers.
 · Studies on ICT in Agriculture: (e.g., "Mobile-based agro-advisory services and its impact on farmers" - Journal of Agricultural Informatics).
 · Government Data: Soil health data from the Soil Health Card scheme, weather data from the India Meteorological Department (IMD).
@@ -105,4 +106,4 @@ Agriculture, FoodTech & Rural Development
 · Existing Models: Learning from the operational models of Kisan Call Centres (KCC), Digital Green, and other successful agri-tech startups.</li></ul>
 
 ## Flowchart
-<Img ![FLOW CHART](https://github.com/user-attachments/assets/0fef4bc0-f130-45e1-a978-4e5a838ac2df)/>
+![FLOW CHART](https://github.com/user-attachments/assets/0fef4bc0-f130-45e1-a978-4e5a838ac2df)
